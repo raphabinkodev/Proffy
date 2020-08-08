@@ -114,8 +114,8 @@ Iniciando o **Frontend** em **ReactJS**:
 
 ```
 cd web
-npm install
-npm start
+yarn install
+yarn start
 ```
 
 Assim que o processo terminar, automaticamente será aberta no seu navegador a página localhost:3000 contendo o Projeto.
